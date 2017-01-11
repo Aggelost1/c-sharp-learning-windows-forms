@@ -1,0 +1,12 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
+C:\Users\Administrator\Desktop\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\Administrator\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\Administrator\Desktop\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb

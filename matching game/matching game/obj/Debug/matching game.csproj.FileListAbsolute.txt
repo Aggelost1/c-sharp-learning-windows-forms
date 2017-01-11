@@ -1,0 +1,9 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\bin\Debug\matching game.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\bin\Debug\matching game.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\bin\Debug\matching game.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching game.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching_game.Form1.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching_game.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching game.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching game.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\matching game\matching game\obj\Debug\matching game.pdb

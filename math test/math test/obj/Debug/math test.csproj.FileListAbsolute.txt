@@ -1,0 +1,9 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\bin\Debug\math test.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\bin\Debug\math test.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\bin\Debug\math test.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math test.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math_test.Form1.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math_test.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math test.csproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math test.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\math test\math test\obj\Debug\math test.pdb
